@@ -43,7 +43,6 @@ func main() {
 
 	router.Run(":8080")
 }
-
 func loadData() {
 	file, err := ioutil.ReadFile("data.json")
 	if err != nil {
