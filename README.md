@@ -18,7 +18,7 @@ Bu basit Go programı, şehir, ilçe ve mahalle verilerini içeren bir JSON dosy
 
 Örnek istek:
 GET http://localhost:8080/allData
-
+![Açıklama](https://github.com/omerfdev/addressAPI/blob/master/goAddress.png)
 
 Örnek cevap:
 ```json
@@ -46,4 +46,4 @@ GET http://localhost:8080/allData
 
 
 
-![Açıklama](https://github.com/omerfdev/addressAPI/blob/master/goAddress.png)
+
